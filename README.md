@@ -1,5 +1,7 @@
 # Principios SOLID y Clean Code
 
+* [Ver slides](./slides/Presentaciones.pdf)
+
 ## Capítulo 1: Clean Code y Deuda Técnica
 
 ### La deuda técnica
@@ -465,3 +467,5 @@ Por el contrario, los cambios en implementaciones concretas, la mayoría de las 
 ### Inyección de dependencias
 
 Dependencia en programación, significa que un módulo o componente require de otro para poder realizar su trabajo.
+
+En algún momento nuestro programa o aplicación llegará a estar formado por muchos módulos. Cuando esto pase, es cuando debemos usar inyección de dependencias
